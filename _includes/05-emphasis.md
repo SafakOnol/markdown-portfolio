@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Emphasis Workout
+
+- *This is how you type italic*
+- ** This is a bold typing **
+- ** This is a *mixture* of types **
+
+~~~ 
+- I love wrting like that 
+~~~
